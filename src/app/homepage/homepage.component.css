@@ -1,0 +1,40 @@
+.margin-left {
+    margin-left: 1250px; /* Set the margin-left to 1250 pixels */
+    padding: 16px 24px; /* Adjust padding as needed */
+}
+
+.w3-hover-red {
+    /* Define hover style */
+    /* For example, changing the background color to red on hover */
+    background-color: red;
+}
+
+.w3-hide-small {
+    /* Define hide style for small screens */
+    /* For example, hiding the element on small screens */
+    display: none;
+}
+
+.w3-row-padding {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.w3-margin-bottom {
+    margin-bottom: 16px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card img {
+    height: auto;
+    max-width: 100%;
+}
+
+.card .w3-container {
+    flex-grow: 1;
+}
